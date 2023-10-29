@@ -11,7 +11,7 @@
 
 
 
-### Glad to see you here!  
+### About me  
 I'm a freshman undergraduate researcher at the University of Illinois Urbana-Champaign, majoring in Physics and Mathematics with a minor in Computer Science. 
 
 My research is focused on Experimental Condensed Matter where I closely collaborate with Professor Alexey Bezryadin. Our current investigations are centered around understanding the electrodynamical behavior of Superconducting Quantum Inteference Devices (aka SQUIDs). Broadly speaking, my research has applications in Quantum Computing. 
