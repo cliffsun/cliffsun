@@ -32,3 +32,8 @@ My research is focused on Experimental Condensed Matter where I closely collabor
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
 </div>
 <br />
+
+---
+### My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cliffsun&theme=burnt-neon&mode=weekly)](https://git.io/streak-stats)
