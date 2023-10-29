@@ -1,4 +1,4 @@
-<center>## 👋 Hey there! I'm Cliff</center>
+## 👋 Hey there! I'm Cliff
   
 
 <a href="https://linkedin.com/in/cliff-sun" target="_blank">
