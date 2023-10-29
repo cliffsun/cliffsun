@@ -10,11 +10,13 @@
         <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
     </a>  
 </div>
-  
-## About Me
+
+<div align = "center">  
+<h1>About Me</h1>
 I'm a freshman undergraduate researcher at the University of Illinois Urbana-Champaign, majoring in Physics and Mathematics with a minor in Computer Science. 
 
 My research is focused on Experimental Condensed Matter where I closely collaborate with Professor Alexey Bezryadin. Our current investigations are centered around understanding the electrodynamical behavior of Superconducting Quantum Inteference Devices (aka SQUIDs). Broadly speaking, my research has applications in Quantum Computing, Cosmology, & Medicine. 
+</div>
 
   
   
