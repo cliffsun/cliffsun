@@ -1,5 +1,5 @@
 <div align = "center"> 
-    ## 👋 Hey there! I'm Cliff
+    <h3>👋 Hey there! I'm Cliff </h3>
 </div>  
 
 <a href="https://linkedin.com/in/cliff-sun" target="_blank">
