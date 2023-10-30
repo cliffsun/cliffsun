@@ -35,8 +35,5 @@ My research is focused on Experimental Condensed Matter where I closely collabor
 <br />
 
 ---
-<table align = "center">
-    <tr>
-        <td>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cliffsun&theme=burnt-neon&mode=weekly)](https://git.io/streak-stats)</td>
-    </tr>
-</table>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cliffsun&theme=burnt-neon&mode=weekly)](https://git.io/streak-stats)
