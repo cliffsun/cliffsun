@@ -1,6 +1,6 @@
-<div align = "center"> 
-    <h1>👋 Hey there! I'm Cliff </h1>
-</div>  
+
+<h1>👋 Hey there! I'm Cliff </h1>
+
 
 <div align = "center">  
     <a href="https://linkedin.com/in/cliff-sun" target="_blank">
