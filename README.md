@@ -14,6 +14,7 @@
 <h2>Glad you're here!</h2>
 I'm a freshman undergraduate researcher at the University of Illinois Urbana-Champaign, majoring in Physics and Mathematics with a minor in Computer Science.
 <br>
+<br>
 Currently, my research in Condensed Matter Physics is focused on exploring the complex dynamics of Quantum Bits (or "Qubits") where I directly collaborate with Professor Alexey Bezryadin and deploy a computational approach to these problems. 
 
 
