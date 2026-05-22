@@ -2,7 +2,7 @@
 
 I study Physics, Math, and Computer Science at the University of Illinois Urbana-Champaign. I am a 2026 Barry M. Goldwater and Astronaut Scholar.
 
-Broadly speaking, I am interested in the intersection of quantum hardware and algorithms towards a fault-tolerant quantum computer.
+Broadly speaking, I am interested in the intersection of quantum hardware and algorithms towards a fault-tolerant quantum computer. I research 1-D superconductors with Professor Alexey Bezryadin at UIUC and quantum algorithms with Dr. Michael Wall at Johns Hopkins Applied Physics Lab.
 
 ## Links
 
